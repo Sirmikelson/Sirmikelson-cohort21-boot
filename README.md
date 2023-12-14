@@ -1,2 +1,2 @@
 # Sirmikelson-cohort21-boot
-My bootstrap Assignment
+My first bootstrap Assignmenton Colors, Buttons and Alerts
